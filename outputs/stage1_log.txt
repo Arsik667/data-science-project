@@ -1,0 +1,29 @@
+=== Stage 1 sanity report
+postcodes                                                              20799
+OAs                                                                    2606
+total households (households file)                                     341359
+total households (car table)                                           341299
+car_rate, household-weighted                                           0.7128
+car_rate, mean over OAs                                                0.7133
+car_rate, mean over postcodes                                          0.7157
+car_rate, min / max over OAs                                           0.024 / 1.000
+children aged 5-9                                                      49626
+est primary children, calendar fractions (MAIN)                        68,785.0
+est primary children, flat 0.2 fractions                               68,625.0
+sum of est_kids over postcodes                                         68,784.9
+school roll excl. Roundhay & Carr Manor (3 schools missing roll)       71,682.0
+est primary children / roll                                            0.9596
+est primary children who have car access                               49,467.5
+postcodes per OA: median / max                                         7.000 / 139.000
+est_kids per postcode: median / p99 / max                              2.724 / 13.588 / 30.783
+
+OAs with the most postcodes:
+           n_postcodes  households  kids_oa  car_rate
+OA                                                   
+E00057303          139         241   32.767     0.627
+E00187152           87          94    0.000     0.160
+E00169797           86          90    1.717     0.278
+E00187061           66         112   29.450     0.446
+E00057795           59         136   24.317     0.875
+
+wrote outputs/postcodes_master.csv, figures/stage1_distributions.png, figures/stage1_maps.png
