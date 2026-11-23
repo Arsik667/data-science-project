@@ -1,0 +1,2 @@
+126 numbers/tables -> outputs/report_numbers.csv
+wrote report/report_draft.md (about 2,610 words outside tables) and report/presentation_outline.md

@@ -1,0 +1,127 @@
+key,value_in_report,raw_value,source
+n_postcodes,"20,799",20799,postcodes_master.csv
+n_oa,"2,606",2606,postcodes_master.csv
+pc_per_oa_mean,8.0,7.98119723714505,postcodes_master.csv
+pc_per_oa_max,139,139,postcodes_master.csv
+total_kids,"68,785",68784.95,postcodes_master.csv
+inflation_factor,8.0,8.01675366486419,postcodes_master.csv (full OA count per postcode)
+total_kids_flat,"68,625",68625.0,"agebands by oa.csv, flat 0.2/1/0.2"
+car_rate_hh,0.713,0.7127501501487259,postcodes_master.csv
+kids_car_access,"49,467",49467.45096430686,postcodes_master.csv
+kids_car_access_share,71.9%,0.7191609641979366,postcodes_master.csv
+primary_roll,"73,614",73614.0326923077,method2_school.csv roll_primary
+est_over_roll,0.934,0.9343999708249605,postcodes_master / method2_school
+n_all_through,4,4,method2_school.csv
+n_roll_imputed,3,3,method2_school.csv
+kids_LS,"65,361",65360.84097076284,postcodes_master.csv
+kids_WF,"2,637",2637.382090805221,postcodes_master.csv
+kids_BD,787,786.7269384319384,postcodes_master.csv
+n_schools,225,225,method1_school.csv
+near_median,425,425.28696194452044,method1_postcode.csv
+near_p90,904,904.3080191419263,method1_postcode.csv
+near_max,"3,612",3612.499411764658,method1_postcode.csv
+near_gt3km,13,13,method1_postcode.csv
+m1_corr_roll,0.167,0.16691362694729095,method1_school.csv
+m1_over15,25,25,method1_school.csv
+m1_under05,36,36,method1_school.csv
+oos_exp,115.4,115.449,method2_calibration_grid.csv (2-fold)
+oos_power,115.7,115.721,method2_calibration_grid.csv (2-fold)
+fold_lambda_a,"1,000",1000.0,method2_calibration_grid.csv
+fold_lambda_b,550,550.0,method2_calibration_grid.csv
+lambda_main,650,650.0,method2_calibration_grid.csv
+beta_best,2.00,2.0,method2_calibration_grid.csv
+n_calib,218,218,method2_school.csv
+n_capped,59,59,method2_school.csv
+min_B,0.12,0.11996448821766059,method2_school.csv
+min_B_school,Bardsey Primary Academy,Bardsey Primary Academy,method2_school.csv
+catch_p80_median,"1,730",1730.4880814382975,method2_school.csv
+ladder_corr_main,0.88,0.8835386282234527,method2_ladder.csv
+ladder_corr_m1,0.39,0.3908821281426937,method2_ladder.csv
+d50_main,"1,000",1000.0,stage3_method2.G_D50 (set a priori)
+g_scale,250,250.0,stage3_method2.G_SCALE (set a priori)
+median_trip,917,917.1870038329153,method2_ladder.csv
+car_kids,"24,319",24318.859229703834,estimates_postcode.csv
+car_share,35.4%,0.35354913000160404,estimates_postcode.csv
+baseline_share,71.9%,0.7191609641979365,estimates_postcode.csv
+rate_p10,18.1%,0.18147647022388638,estimates_postcode.csv
+rate_p50,33.8%,0.33814861926450634,estimates_postcode.csv
+rate_p90,60.1%,0.601415116835621,estimates_postcode.csv
+rate_dist_rho,0.59,0.5922233525088472,estimates_postcode.csv + method1_postcode.csv
+tbl_ladder,(table),,method2_ladder.csv
+d50_500_share,53.0%,0.5302195340977599,method2_sensitivity.csv
+d50_2000_share,12.2%,0.1219809199568739,method2_sensitivity.csv
+match_exact,147,147,school_key.csv
+match_norm,17,17,school_key.csv
+match_fuzzy,24,24,school_key.csv
+match_manual_linked,8,8,school_key.csv
+match_linked,196,196,school_key.csv
+pdf_by_number,222,222,school_key.csv
+pdf_manual,3,3,school_key.csv
+pdf_rows,226,226,cutoff_parsed.csv
+pdf_all_admitted,147,147,cutoff_parsed.csv
+pdf_numeric,76,76,cutoff_parsed.csv
+pdf_nonstandard,3,3,cutoff_parsed.csv
+n_compared,194,194,school_validation.csv
+response_median,1.01,1.0088167323713901,school_validation.csv
+obs_pooled,0.354,0.3537277347412049,school_validation.csv
+pred_pooled,0.357,0.3574215970280654,school_validation.csv
+sv_spearman,0.50,0.5031911960548288,validation_metrics_survey.csv
+sv_pearson,0.52,0.5170242390012435,validation_metrics_survey.csv
+sv_mae,0.124,0.12414314276599094,validation_metrics_survey.csv
+sv_mae_const,0.143,0.14302615834896157,validation_metrics_survey.csv
+sv_sd_pred,0.072,0.07219125976141601,validation_metrics_survey.csv
+sv_sd_obs,0.177,0.17745431710606613,validation_metrics_survey.csv
+sv_slope,1.27,1.2709043111654597,validation_metrics_survey.csv
+sv_bl_spearman,0.51,0.5084226784684314,validation_metrics_survey.csv
+sv_bl_bias,0.371,0.37111548926022664,validation_metrics_survey.csv
+sv_m1_spearman,0.44,0.44436865761887906,validation_metrics_survey.csv
+sv_m1_bias,-0.257,-0.25686501503395676,validation_metrics_survey.csv
+tbl_survey,(table),,validation_metrics_survey.csv
+cnt_pearson_scaled,0.71,0.7147438389349627,school_validation.csv (pred share x respondents vs Car/Van)
+worst_under_school,"St Francis Catholic Primary School, Morley","St Francis Catholic Primary School, Morley",validation_metrics_survey.csv
+worst_under_obs,93.3%,0.932806324110672,validation_metrics_survey.csv
+worst_under_pred,40.2%,0.40209126023029595,validation_metrics_survey.csv
+worst_over_school,Castleton Primary School,Castleton Primary School,validation_metrics_survey.csv
+worst_over_obs,1.4%,0.013623978201634877,validation_metrics_survey.csv
+worst_over_pred,30.9%,0.30911277550097627,validation_metrics_survey.csv
+vs_best_spearman,0.61,0.6138798640936863,validation_sensitivity.csv
+vs_best_lambda,325,325.0,validation_sensitivity.csv
+vs_best_d50,500,500.0,validation_sensitivity.csv
+cut_n,77,77,validation_metrics_cutoff.csv
+cut_spearman,-0.06,-0.06036307235905906,validation_metrics_cutoff.csv
+cut_median,"1,088",1087.9165440000002,validation_metrics_cutoff.csv
+cut_implied_median,"1,763",1763.0070901729239,validation_metrics_cutoff.csv
+auc_oversub,0.475,0.47465728715728717,school_validation.csv + method2_school.csv
+f_cath_n,23,23.0,fairness_groups.csv
+f_cath_obs,52.2%,0.5223080114363031,fairness_groups.csv
+f_cath_pred,35.5%,0.355479946884104,fairness_groups.csv
+f_cath_err,"-0.167 [-0.234, -0.101]","(np.float64(-0.1668280645521992), np.float64(-0.23431488434647213), np.float64(-0.1013580498277325))","fairness_groups.csv (bootstrap, seed 42)"
+f_cofe_n,29,29.0,fairness_groups.csv
+f_cofe_obs,37.8%,0.3783265075004526,fairness_groups.csv
+f_cofe_pred,37.7%,0.3771577330751393,fairness_groups.csv
+f_cofe_err,"-0.001 [-0.049, +0.048]","(np.float64(-0.0011687744253133982), np.float64(-0.049451650561683186), np.float64(0.04790477493545563))","fairness_groups.csv (bootstrap, seed 42)"
+f_none_n,142,142.0,fairness_groups.csv
+f_none_obs,33.8%,0.3383701887600982,fairness_groups.csv
+f_none_pred,35.6%,0.3562192158352247,fairness_groups.csv
+f_none_err,"+0.018 [-0.005, +0.039]","(np.float64(0.017849027075126464), np.float64(-0.004506408951994897), np.float64(0.039041185176007985))","fairness_groups.csv (bootstrap, seed 42)"
+f_kw_p,< 0.0001,2.571663747021594e-05,fairness_school.csv
+f_n_cath_named,27,27,fairness_school.csv
+f_n_cath_field,0,0,fairness_school.csv
+f_reg_cath,"-0.199 [-0.258, -0.143]","(np.float64(-0.1991823558625726), np.float64(-0.257941749651476), np.float64(-0.14288051797837692))",fairness_regression.csv
+f_q1_err,+0.082,0.08201435056616689,fairness_car_rate_quintiles.csv
+f_q5_err,-0.093,-0.09337172076468203,fairness_car_rate_quintiles.csv
+f_rho_car_err,-0.40,-0.3963455272359711,fairness_school.csv
+f_prop_gt10,24.0%,0.2398045283581237,fairness_postcode.csv
+mc_n,200,200,sensitivity_mc_draws.csv
+mc_p5,7.9%,0.07942625278375798,sensitivity_mc_draws.csv
+mc_p50,29.6%,0.2959677546845867,sensitivity_mc_draws.csv
+mc_p95,54.1%,0.5410072281984458,sensitivity_mc_draws.csv
+mc_rho_median,0.93,0.9296324892161139,sensitivity_mc_draws.csv
+mc_rho_min,0.74,0.7429271604435103,sensitivity_mc_draws.csv
+mc_rho_d50,-0.78,-0.7757353933848347,sensitivity_mc_draws.csv
+mc_rho_lambda,0.62,0.6195844896122404,sensitivity_mc_draws.csv
+mc_top_stable,64.2%,0.6424065987384765,estimates_postcode_uncertainty.csv
+tbl_oat,(table),,sensitivity_one_at_a_time.csv
+pdf_primary_car,35.4%,0.354,Summary PDF text (pypdf): primary car/van share
+pdf_mentions,4,4,Summary PDF text (pypdf)
+pdf_national_claim,35.4%,0.354,Summary PDF text (pypdf): 'national average of ...'
