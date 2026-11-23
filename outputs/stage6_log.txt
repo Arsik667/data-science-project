@@ -1,0 +1,33 @@
+flat age fractions: 68,625.0 children (main 68,784.9)
+=== A. One assumption at a time (postcode stability vs the main model)
+               assumption          value  car_kids  car_share  spearman_vs_main  top10_overlap  median_abs_change_pp  survey_spearman_REPORT_ONLY
+                     main              - 24318.859      0.354             1.000          1.000                 0.000                        0.503
+         decay lambda (m)            325 14205.170      0.207             0.898          0.880                13.966                        0.608
+         decay lambda (m)           1300 35809.367      0.521             0.893          0.849                15.231                        0.422
+               decay form   power beta=2 27351.333      0.398             0.906          0.900                 5.826                        0.415
+    g(d) midpoint d50 (m)            500 36471.124      0.530             0.929          0.882                16.929                        0.592
+    g(d) midpoint d50 (m)           2000  8390.451      0.122             0.840          0.762                22.152                        0.228
+ g(d) steepness scale (m)            125 23309.011      0.339             0.985          0.962                 1.862                        0.441
+ g(d) steepness scale (m)            500 25504.602      0.371             0.974          0.952                 2.524                        0.579
+      route detour factor            1.3 25615.288      0.372             0.961          0.909                 3.090                        0.574
+      capacity weight A_j      off (A=1) 24299.901      0.353             0.986          0.960                 0.884                        0.491
+             capacity cap            off 24241.199      0.352             0.997          0.988                 0.144                        0.497
+all-through primary share            0.3 24292.864      0.353             0.999          0.996                 0.011                        0.503
+            age fractions flat 0.2/1/0.2 24234.356      0.353             1.000          0.999                 0.007                        0.503
+
+=== B. Monte Carlo, 200 joint draws (seed 42); ranges {'lambda': (325.0, 1300.0), 'd50': (500.0, 2000.0), 'scale': (150.0, 400.0)}
+citywide car-driven children: p5 5463, p50 20358, p95 37213  (share p5 7.9%, p50 29.6%, p95 54.1%)
+postcode-rank Spearman vs main over draws: min 0.743, p5 0.828, median 0.930
+  Spearman(lambda, car_share) = +0.620
+  Spearman(d50, car_share) = -0.776
+  Spearman(scale, car_share) = +0.046
+postcode 90% band width (p95 - p5), children-weighted: median 47.0 pp, p90 63.0 pp
+main-model top-10% postcodes that stay top-10% in >= 90% of draws: 64.2%
+postcodes never in the top 10% of any draw: 81.4%
+ratio p95 / p5 of postcode car rate: median 8.54 (relative uncertainty is similar everywhere)
+
+=== C. Coverage (for limitations)
+estimated children by postcode area: {'BD': 787.0, 'LS': 65361.0, 'WF': 2637.0}
+children whose nearest listed school is > 2 km away: 117
+
+wrote outputs/sensitivity_*.csv, outputs/estimates_postcode_uncertainty.csv, figures/stage6_*.png
