@@ -1,0 +1,227 @@
+dfe,name_pdf,distance_raw,last_criteria,criteria_desc,all_admitted,cutoff_flag,cutoff_miles,cutoff_m
+3030,Aberford Church of England Voluntary,All applicants admitted,,,True,all_admitted,,
+2416,Adel Primary School,0.649,4,In-Catchment,False,numeric,0.649,1044.464256
+3902,Adel St John The Baptist Church of England,1.039,6,Any Other Children,False,numeric,1.039,1672.108416
+2034,Alder Tree Primary Academy (previously Mill,All applicants admitted,,,True,all_admitted,,
+3909,All Saint's Richmond Hill Church of England,0.398,6,Any Other Children,False,numeric,0.398,640.518912
+2507,Allerton Bywater,All applicants,,,True,all_admitted,,
+3931,Allerton Church of England Primary School,All applicants admitted,,,True,all_admitted,,
+2436,Alwoodley Primary,All applicants,,,True,all_admitted,,
+2032,Armley Park Primary,All applicants,,,True,all_admitted,,
+2401,Ashfield Primary School,0.258,4,In-Catchment,False,numeric,0.258,415.210752
+2512,Asquith Primary School,All applicants,,,True,all_admitted,,
+2463,Austhorpe Primary,0.71,6,Any Other Children,False,numeric,0.71,1142.63424
+2425,Bankside Primary School,All applicants,,,True,all_admitted,,
+2385,Bardsey Primary,3.414,4,Any Other Children,False,numeric,3.414,5494.300416
+3033,Barwick-in-Elmet Church of England Primary,All applicants admitted,,Any Other Children,True,all_admitted,,
+2444,Beechwood Primary,0.551,4,In-Catchment,False,numeric,0.551,886.7485440000002
+2407,Beecroft Primary School,0.295,4,In-Catchment,False,numeric,0.295,474.75648
+3913,Beeston Hill St Luke's Church of England,0.525,4,In the Parish,False,numeric,0.525,844.9056
+2470,Beeston Primary School,All applicants,,,True,all_admitted,,
+2369,Birchfield Primary School,0.85,5,Any Other Children,False,numeric,0.85,1367.9424
+2025,Blackgates Primary,All applicants,,,True,all_admitted,,
+2408,Blenheim Primary School,0.526,5,Any Other Children,False,numeric,0.526,846.514944
+2433,Bracken Edge Primary,All applicants,,,True,all_admitted,,
+2329,Bramham Primary,All applicants,,,True,all_admitted,,
+2406,Bramhope Primary,1.814,4,Any Other Children,False,numeric,1.814,2919.3500160000003
+2030,Bramley Park Academy,All applicants,,,True,all_admitted,,
+3054,Bramley St Peter's Church of England,All applicants admitted,,,True,all_admitted,,
+2398,Broadgate Primary,All applicants,,,True,all_admitted,,
+3915,Brodetsky Primary,0.982,3,Jewish faith,False,numeric,0.982,1580.375808
+2409,Brudenell Primary School,All applicants,,,True,all_admitted,,
+3052,Burley St Matthias' Church of England,All applicants admitted,,,True,all_admitted,,
+3046,Calverley Church of England Voluntary Aided,All applicants admitted,,,True,all_admitted,,
+2028,Calverley Parkside,All applicants,,,True,all_admitted,,
+2308,Carlton Primary School,All applicants,,,True,all_admitted,,
+4041,Carr Manor Community,1.114,6,Any Other Children,False,numeric,1.114,1792.8092160000003
+2486,Castleton Primary School,All applicants,,,True,all_admitted,,
+2427,Chapel Allerton Primary,0.676,5,Any Other Children,False,numeric,0.676,1087.9165440000002
+2027,Christ Church Upper Armley Church Of England Primary School,All applicants admitted,,,True,all_admitted,,
+2020,"Christ The King Catholic Primary School, A Voluntary Academy",All applicants admitted,,,True,all_admitted,,
+2286,Churwell Primary School,All applicants admitted,,,True,all_admitted,,
+2482,Clapgate Primary School,All applicants admitted,,,True,all_admitted,,
+2487,Cobden Primary School,All applicants admitted,,,True,all_admitted,,
+2031,Cockburn Haigh Road Academy,All applicants admitted,,,True,all_admitted,,
+3357,Collingham Lady Elizabeth Hastings' Church of England Aided Primary School,All applicants admitted,,,True,all_admitted,,
+2453,Colton Primary School,1.626,6,Any Other Children,False,numeric,1.626,2616.7933439999997
+3903,Cookridge Holy Trinity Church of England Primary School,All applicants admitted,,,True,all_admitted,,
+2418,Cookridge Primary School,0.564,5,In-Catchment,False,numeric,0.564,907.6700159999999
+2022,Co-op Academy Beckfield,All applicants admitted,,,True,all_admitted,,
+2007,Co-op Academy Brownhill,All applicants admitted,,,True,all_admitted,,
+2012,Co-op Academy Nightingale,All applicants admitted,,,True,all_admitted,,
+2010,Co-op Academy Oakwood,All applicants admitted,,,True,all_admitted,,
+2008,Co-op Academy Woodlands,All applicants admitted,,,True,all_admitted,,
+3370,Corpus Christi Catholic Primary School,All applicants admitted,,,True,all_admitted,,
+2006,Cottingley Primary Academy,All applicants admitted,,,True,all_admitted,,
+2458,Cross Gates Primary School,0.54,4,In-Catchment,False,numeric,0.54,869.0457600000001
+2347,Crossley Street Primary School,0.59,4,In-Catchment,False,numeric,0.59,949.51296
+2400,Deighton Gates Primary School,All applicants admitted,,,True,all_admitted,,
+4075,Dixons Trinity Chapeltown (Primary Campus),All applicants admitted,,,True,all_admitted,,
+3921,Drighlington Primary School,0.382,4,In-Catchment,False,numeric,0.382,614.769408
+2504,East Ardsley Primary School,All applicants admitted,,,True,all_admitted,,
+2395,East Garforth Primary Academy,All applicants admitted,,,True,all_admitted,,
+2018,Ebor Gardens Primary Academy,All applicants admitted,,,True,all_admitted,,
+2024,Elements Primary School,1.029,5,Any Other Children,False,numeric,1.029,1656.014976
+2505,Farsley Farfield Primary School,All applicants admitted,,,True,all_admitted,,
+2338,Farsley Springbank Primary School,0.426,5,Any Other Children,False,numeric,0.426,685.580544
+2302,Farsley Westroyd Primary School,All applicants admitted,,,True,all_admitted,,
+2469,Fieldhead Carr Primary School,1.55,5,Any Other Children,False,numeric,1.55,2494.4832
+2492,Five Lanes Primary School,0.907,4,Any Other Children,False,numeric,0.907,1459.6750080000002
+3926,Fountain Primary School,All applicants admitted,,,True,all_admitted,,
+2336,Gildersome Primary School,All applicants admitted,,,True,all_admitted,,
+2428,Gledhow Primary School,0.598,5,Any Other Children,False,numeric,0.598,962.387712
+2447,Grange Farm Primary School,All applicants admitted,,,True,all_admitted,,
+3925,Great Preston CofE Primary School,0.662,5,Any Other Children,False,numeric,0.662,1065.3857280000002
+2396,Green Lane Primary Academy,All applicants admitted,,,True,all_admitted,,
+2499,Greenhill Primary School,All applicants admitted,,,True,all_admitted,,
+2473,Greenmount Primary School,0.618,5,Any Other Children,False,numeric,0.618,994.574592
+2303,Greenside Primary School,All applicants admitted,,,True,all_admitted,,
+2448,Grimes Dyke Primary School,All applicants admitted,,,True,all_admitted,,
+2270,Guiseley Primary School,All applicants admitted,,,True,all_admitted,,
+2449,Harehills Primary School,All applicants admitted,,,True,all_admitted,,
+3037,Harewood Church of England Primary School,All applicants admitted,,,True,all_admitted,,
+3351,Hawksworth Church of England Primary School,All applicants admitted,,,True,all_admitted,,
+2417,Hawksworth Wood Primary School,All applicants admitted,,,True,all_admitted,,
+2438,Highfield Primary School,1.536,5,Any Other Children,False,numeric,1.536,2471.952384
+2292,Hill Top Primary Academy,All applicants admitted,,,True,all_admitted,,
+2014,Hillcrest Academy,1.478,4,Any Other Children,False,numeric,1.478,2378.610432
+3922,Hollybush Primary School,All applicants admitted,,,True,all_admitted,,
+3372,Holy Family Catholic Primary School,0.065,9,Any Other Children,False,numeric,0.065,104.60736
+2017,Holy Name Catholic Voluntary Academy,All applicants admitted,,,True,all_admitted,,
+3383,Holy Rosary and St Anne's Catholic Primary School,All applicants admitted,,,True,all_admitted,,
+2013,Holy Trinity Church of England Academy (Rothwell),All applicants admitted,,,True,all_admitted,,
+2283,Horsforth Featherbank Primary School,0.442,5,Any Other Children,False,numeric,0.442,711.330048
+2363,Horsforth Newlaithes Primary School,0.93,4,In-Catchment,False,numeric,0.93,1496.68992
+2450,Hovingham Primary School,All applicants admitted,,,True,all_admitted,,
+2483,Hugh Gaitskell Primary School,All applicants admitted,,,True,all_admitted,,
+2474,Hunslet Carr Primary School,All applicants admitted,,,True,all_admitted,,
+2475,Hunslet Moor Primary School,All applicants admitted,,,True,all_admitted,,
+3381,Immaculate Heart Of Mary Catholic Primary School,All applicants admitted,,,True,all_admitted,,
+2476,Ingram Road Primary School,All applicants admitted,,,True,all_admitted,,
+2420,Ireland Wood Primary School,All applicants admitted,,,True,all_admitted,,
+2410,Iveson Primary School,All applicants admitted,,,True,all_admitted,,
+2434,Kerr Mackie Primary School,All applicants admitted,,,True,all_admitted,,
+2801,Kippax Ash Tree Primary School,All applicants admitted,,,True,all_admitted,,
+2384,Kippax Greenfield Primary School,All applicants admitted,,,True,all_admitted,,
+2399,Kippax North Primary School,All applicants admitted,,,True,all_admitted,,
+3904,Kirkstall St Stephen's Church of England Primary School,Criteria 3 = All applicants admitted & Criteria 4.1 = 0.53,3 & 4.1,Criteria 3 = Faith & 4.1 = In the parish,False,nonstandard,4.1,6598.310399999999
+2411,Kirkstall Valley Primary School,4.57,5,Any Other Children,False,numeric,4.57,7354.702080000001
+5200,Lady Elizabeth Hastings CofE Primary School (Ledston),All applicants admitted,,,True,all_admitted,,
+3356,Lady Elizabeth Hastings CofE Primary School (Thorpe Arch),All applicants admitted,,,True,all_admitted,,
+2000,Lane End Primary School,All applicants admitted,,,True,all_admitted,,
+2497,Lawns Park Primary School,0.263,5,Any Other Children,False,numeric,0.263,423.257472
+2037,Little London Academy,All applicants admitted,,,True,all_admitted,,
+2481,Low Road Primary School,All applicants admitted,,,True,all_admitted,,
+2496,Lower Wortley Primary School,All applicants admitted,,,True,all_admitted,,
+2365,Lowtown Primary School,All applicants admitted,,,True,all_admitted,,
+2437,Manor Wood Primary School,0.76,4,In-Catchment,False,numeric,0.76,1223.1014400000001
+2464,Manston Primary School,0.298,5,,False,numeric,0.298,479.584512
+3910,Manston St James Primary Academy,All applicants admitted,,Any Other Children,True,all_admitted,,
+3923,Meadowfield Primary School,1.684,6,Any Other Children,False,numeric,1.684,2710.135296
+3907,Meanwood Church of England Primary School,2.241,10,Any Other Children,False,numeric,2.241,3606.539904
+2023,Methley Primary School,All applicants admitted,,,True,all_admitted,,
+2035,Micklefield Church of England Primary Academy,All applicants admitted,,,True,all_admitted,,
+2477,Middleton Primary School,All applicants admitted,,,True,all_admitted,,
+3053,Middleton St Mary's Church of England VC Primary School,All applicants admitted,,,True,all_admitted,,
+2439,Moor Allerton Hall Primary School,All applicants admitted,,,True,all_admitted,,
+2440,Moortown Primary School,0.264,5,Any Other Children,False,numeric,0.264,424.86681600000003
+2321,Morley Newlands Academy,0.808,4,Any Other Children,False,numeric,0.808,1300.349952
+2382,Morley Victoria Primary School,1.242,5,Any Other Children,False,numeric,1.242,1998.8052480000001
+3927,New Bewerley Community Primary School,All applicants admitted,,,True,all_admitted,,
+2397,Ninelands Primary School,All applicants admitted,,,True,all_admitted,,
+2513,Otley All Saints Church of England Primary School,0.356,4,In-Catchment,False,numeric,0.356,572.926464
+2405,Otley The Whartons Primary School,All applicants admitted,,,True,all_admitted,,
+2327,Oulton Primary School,All applicants admitted,,,True,all_admitted,,
+3376,Our Lady of Good Counsel Catholic Primary School,0.694,9,Any Other Children,False,numeric,0.694,1116.884736
+2488,Park Spring Primary School,All applicants admitted,,,True,all_admitted,,
+2005,Park View Primary Academy,All applicants admitted,,,True,all_admitted,,
+2467,Parklands Primary School,0.435,5,Any Other Children,False,numeric,0.435,700.06464
+3051,Pool-in-Wharfedale Church of England Voluntary Controlled Primary School,All applicants admitted,,,True,all_admitted,,
+2011,Primley Wood Primary School,All applicants admitted,,,True,all_admitted,,
+2389,Primrose Lane Primary School,All applicants admitted,,,True,all_admitted,,
+2331,Pudsey Bolton Royd Primary School,1.556,5,Any Other Children,False,numeric,1.556,2504.1392640000004
+2339,Pudsey Primrose Hill Primary School,1.208,5,Any Other Children,False,numeric,1.208,1944.087552
+3920,Pudsey Waterloo Primary School,All applicants admitted,,,True,all_admitted,,
+2413,Quarry Mount Primary School,All applicants admitted,,,True,all_admitted,,
+2356,Queensway Primary School,All applicants admitted,,,True,all_admitted,,
+2271,Rawdon Littlemoor Primary School,0.899,3,Any Other Children,False,numeric,0.899,1446.800256
+3031,Rawdon St Peter's Church of England Voluntary Controlled Primary School,All applicants admitted,,,True,all_admitted,,
+2489,Raynville Primary School,All applicants admitted,,,True,all_admitted,,
+2021,Richmond Hill Academy,All applicants admitted,,,True,all_admitted,,
+2309,Robin Hood Primary School,All applicants admitted,,,True,all_admitted,,
+2415,Rosebank Primary School,0.291,4,In-Catchment,False,numeric,0.291,468.319104
+2506,Rothwell Primary School,0.802,5,Any Other Children,False,numeric,0.802,1290.693888
+3364,Rothwell St Mary's Catholic Primary School,1.342,9,Any Other Children,False,numeric,1.342,2159.739648
+2342,Rothwell Victoria Junior School,All applicants admitted,,,True,all_admitted,,
+4063,Roundhay School,0.408,5,Any Other Children,False,numeric,0.408,656.612352
+3329,Roundhay St John's Church of England Primary School,0.642,5,Any Other Children,False,numeric,0.642,1033.198848
+2002,Rufford Park Primary School,All applicants admitted,,,True,all_admitted,,
+2016,Ryecroft Academy,All applicants admitted,,,True,all_admitted,,
+3377,Sacred Heart Catholic Primary School,All applicants admitted,,,True,all_admitted,,
+2275,Scholes (Elmet) Primary School,All applicants admitted,,,True,all_admitted,,
+2452,Seacroft Grange Primary School,All applicants admitted,,,True,all_admitted,,
+2293,Seven Hills Primary School,All applicants admitted,,,True,all_admitted,,
+2441,Shadwell Primary School,1.245,4,In-Catchment,False,numeric,1.245,2003.6332800000002
+2462,Shakespeare Primary School,All applicants admitted,,,True,all_admitted,,
+2510,Sharp Lane Primary School,All applicants admitted,,,True,all_admitted,,
+3929,Shire Oak Church Of England Voluntary Controlled Primary School,0.874,5,Any Other Children,False,numeric,0.874,1406.566656
+2335,Southroyd Primary and Nursery School,All applicants admitted,,,True,all_admitted,,
+2414,Spring Bank Primary School,All applicants admitted,,,True,all_admitted,,
+3363,SS Peter and Paul Catholic Primary School - A Voluntary Academy,All applicants admitted,,,True,all_admitted,,
+3367,"St Anthony's Catholic Primary School, Beeston",0.082,9,Any Other Children,False,numeric,0.082,131.96620800000002
+3368,St Augustine's Catholic Primary School,1.327,9,Any Other Children,False,numeric,1.327,2135.599488
+3056,St Bartholomew's CofE Primary School,0.484,5,Any Other Children,False,numeric,0.484,778.922496
+3365,St Benedict's Catholic Primary School,All applicants admitted,,,True,all_admitted,,
+3315,St Chad's Church of England Primary School,Criteria 3 = All applicants admitted & Criteria 4 = 0.542,4,Criteria 3 = Faith & 4.1 = Any other children,False,nonstandard,0.542,872.2644480000001
+3358,"St Edward's Catholic Primary School, Boston Spa",0.598,9,Any Other Children,False,numeric,0.598,962.387712
+3362,"St Francis Catholic Primary School, Morley",All applicants admitted,,,True,all_admitted,,
+3371,"St Francis of Assisi Catholic Primary School, Beeston",All applicants admitted,,,True,all_admitted,,
+3374,"St Joseph's Catholic Primary School, Hunslet",All applicants admitted,,,True,all_admitted,,
+3360,"St Joseph's Catholic Primary School, Otley - A Voluntary Academy",All applicants admitted,,,True,all_admitted,,
+3361,"St Joseph's Catholic Primary School, Pudsey - A Voluntary Academy",All applicants admitted,,,True,all_admitted,,
+3366,"St Joseph's Catholic Primary School, Wetherby",All applicants admitted,,,True,all_admitted,,
+3038,St Margaret's Church of England Voluntary Controlled Primary School,All applicants admitted,,,True,all_admitted,,
+3359,"St Mary's Catholic Primary School, Horsforth",0.258,9,Any Other Children,False,numeric,0.258,415.210752
+3047,"St Mary's Church of England Controlled Primary School, Boston Spa",All applicants admitted,,,True,all_admitted,,
+2033,"St Mary's Church of England Primary Academy, Hunslet",All applicants admitted,,,True,all_admitted,,
+3908,St Matthew's Church of England Primary School,All applicants admitted,,,True,all_admitted,,
+3375,St Nicholas Catholic Primary School,0.544,9,Any Other Children,False,numeric,0.544,875.4831360000001
+3350,St Oswald's CofE Primary School,0.748,4,In the Parish,False,numeric,0.748,1203.789312
+3382,St Patrick's Catholic Primary School,0.455,7,Member of Eastern Christian Church,False,numeric,0.455,732.25152
+3378,St Paul's Catholic Primary School,All applicants admitted,,,True,all_admitted,,
+3911,St Peter's Church of England Primary School,0.518,3,Practicing member of a Christian Church that is member of Churches Together,False,numeric,0.518,833.6401920000001
+3379,St Philip's Catholic Primary School,All applicants admitted,,,True,all_admitted,,
+3385,St Theresa's Catholic Primary School,0.45,9,Any Other Children,False,numeric,0.45,724.2048000000001
+3373,St Urban's Catholic Primary School,All applicants admitted,,,True,all_admitted,,
+2490,Stanningley Primary School,All applicants admitted,,,True,all_admitted,,
+3917,Strawberry Fields Primary School,2.082,4,Any Other Children,False,numeric,2.082,3350.654208
+2491,Summerfield Primary School,All applicants admitted,,,True,all_admitted,,
+2468,Swarcliffe Primary School,All applicants admitted,,,True,all_admitted,,
+2328,Swillington Primary School,All applicants admitted,,,True,all_admitted,,
+2503,Swinnow Primary School,0.818,5,Any Other Children,False,numeric,0.818,1316.443392
+2432,Talbot Primary School,0.544,4,In-Catchment,False,numeric,0.544,875.4831360000001
+4068,Temple Learning Academy,All applicants admitted,,,True,all_admitted,,
+2465,Templenewsam Halton Primary School,All applicants admitted,,,True,all_admitted,,
+3044,Thorner Church of England Primary School,All applicants admitted,,,True,all_admitted,,
+2312,Thorpe Primary School,All applicants admitted,,,True,all_admitted,,
+2348,Tranmere Park Primary School,All applicants admitted,,,True,all_admitted,,
+3928,Valley View Community Primary School,All applicants admitted,,,True,all_admitted,,
+2454,Victoria Primary Academy,All applicants admitted,,,True,all_admitted,,
+2421,Weetwood Primary School,0.544,5,Any Other Children,False,numeric,0.544,875.4831360000001
+2334,West End Primary School,0.373,4,In-Catchment,False,numeric,0.373,600.285312
+2364,Westbrook Lane Primary School,0.508,5,Any Other Children,False,numeric,0.508,817.5467520000001
+2297,Westerton Primary Academy,All applicants admitted,,,True,all_admitted,,
+2403,Westgate Primary School,1.04,5,Any Other Children,False,numeric,1.04,1673.71776
+2478,Westwood Primary School,All applicants admitted,,,True,all_admitted,,
+3045,Wetherby St James' Church of England Voluntary Controlled Primary School,All applicants admitted,,,True,all_admitted,,
+2493,Whingate Primary School,0.903,5,Any Other Children,False,numeric,0.903,1453.237632
+3912,Whinmoor St Paul's Church of England Primary School,Criteria 3B = 1.069 & Criteria 4 = All applicants admitted,4,3B= Local Priroty and nearest & 4= Faith Priority,False,nonstandard,1.069,1720.3887359999999
+2456,White Laith Primary School,0.389,5,Any Other Children,False,numeric,0.389,626.0348160000001
+2494,Whitecote Primary School,All applicants admitted,,,True,all_admitted,,
+2466,Whitkirk Primary School,0.961,6,Any Other Children,False,numeric,0.961,1546.579584
+2390,Wigton Moor Primary School,1.567,5,Any Other Children,False,numeric,1.567,2521.842048
+2471,Windmill Primary School,0.762,5,Any Other Children,False,numeric,0.762,1226.320128
+2314,Woodlesford Primary School,All applicants admitted,,,True,all_admitted,,
+2457,Wykebeck Primary School,All applicants admitted,,,True,all_admitted,,
+2358,Yeadon Westfield Infant School,All applicants admitted,,,True,all_admitted,,
+2324,Yeadon Westfield Junior School,All applicants admitted,,,True,all_admitted,,

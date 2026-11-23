@@ -1,0 +1,70 @@
+=== A. Survey comparison
+schools: listed 225 | linked to survey 196 | primary & linked (compared) 194 | all-through excluded 2 | <30 responses 2
+response rate (survey pupils / primary roll): median 1.01, p10 0.82, p90 1.10
+pooled observed car/van share over compared schools: 0.354 (incl. car-share lifts 0.366)
+pooled predicted share on the same schools, weighted by survey pupils: M2 0.357 | baseline 0.726
+         subset                                model   n  pearson  spearman   MAE  RMSE   bias  sd_pred  sd_obs  slope_obs_on_pred
+   all compared                        pred_share_M2 194    0.517     0.503 0.124 0.153 -0.007    0.072   0.177              1.271
+   all compared               pred_share_M2_baseline 194    0.528     0.508 0.373 0.402  0.371    0.123   0.177              0.761
+   all compared                        pred_share_M1 194    0.447     0.444 0.261 0.302 -0.257    0.089   0.177              0.890
+   all compared constant = observed mean (reference) 194      NaN       NaN 0.143 0.177  0.000    0.000   0.177                NaN
+>= 30 responses                        pred_share_M2 192    0.517     0.504 0.124 0.154 -0.006    0.073   0.178              1.269
+>= 30 responses               pred_share_M2_baseline 192    0.533     0.515 0.375 0.403  0.373    0.123   0.178              0.772
+>= 30 responses                        pred_share_M1 192    0.446     0.441 0.260 0.302 -0.256    0.090   0.178              0.886
+>= 30 responses constant = observed mean (reference) 192      NaN       NaN 0.144 0.178  0.000    0.000   0.178                NaN
+
+counts, M2 predicted car pupils vs survey Car/Van count: pearson 0.483, spearman 0.418, MAE 49.4, bias -2.1
+counts, M2 share x survey respondents vs Car/Van count:  pearson 0.715, spearman 0.686, MAE 38.1, bias 1.2
+alt. definition incl. car-share lifts: M2 pearson 0.518, spearman 0.501, bias -0.019
+
+largest under-predictions (obs >> pred):
+                                               name_school_list  survey_total  obs_share  pred_share_M2
+                     St Francis Catholic Primary School, Morley         253.0      0.933          0.402
+Ss. Peter and Paul Catholic Primary School, a Voluntary Academy         204.0      0.824          0.382
+                                        Bardsey Primary Academy         223.0      0.771          0.380
+                           St Theresa's Catholic Primary School         422.0      0.723          0.379
+                St Edward's Catholic Primary School, Boston Spa         192.0      0.646          0.319
+largest over-predictions (pred >> obs):
+                    name_school_list  survey_total  obs_share  pred_share_M2
+            Castleton Primary School         367.0      0.014          0.309
+             Westgate Primary School         238.0      0.126          0.389
+             Moortown Primary School         210.0      0.190          0.453
+         Quarry Mount Primary School         186.0      0.075          0.334
+Horsforth Featherbank Primary School         203.0      0.108          0.364
+
+mean by faith-named school (name contains Catholic/CofE/St/Holy...):
+       obs_share  pred_share_M2  error_M2
+faith                                    
+False      0.337          0.356     0.019
+True       0.444          0.368    -0.076
+faith vs non-faith error difference, Mann-Whitney p = 0.0011
+
+=== B. Cut-off distance comparison
+primary schools with a numeric cut-off: 77 (non-standard rows: 3)
+            subset         implied  n  spearman  pearson_log  median_cutoff_m  median_implied_m  median_ratio  share_ratio_0.5_to_2
+       all numeric catchment_p80_m 77    -0.060       -0.046         1087.917          1763.007         1.432                 0.584
+       all numeric catchment_p95_m 77     0.023       -0.017         1087.917          2872.192         2.629                 0.299
+standard rows only catchment_p80_m 74    -0.087       -0.066         1076.651          1745.390         1.440                 0.595
+standard rows only catchment_p95_m 74    -0.013       -0.046         1076.651          2872.032         2.680                 0.297
+
+oversubscribed in 2024 (rows) vs capped by the model (cols):
+model_capped    False  True  All
+oversubscribed                  
+False             104    40  144
+True               58    19   77
+All               162    59  221
+model fullness median: oversubscribed 0.85 vs all-admitted 0.87 | AUC 0.475
+
+=== Sensitivity of survey metrics (REPORT ONLY - main settings are not changed)
+ lambda_m  d50_m  pearson  spearman   MAE   bias  sd_pred
+    325.0    500    0.633     0.614 0.128  0.072    0.100
+    325.0   1000    0.596     0.608 0.167 -0.152    0.078
+    325.0   2000    0.355     0.513 0.334 -0.334    0.047
+    650.0    500    0.600     0.592 0.194  0.173    0.086
+    650.0   1000    0.517     0.503 0.124 -0.007    0.072
+    650.0   2000    0.299     0.228 0.246 -0.242    0.041
+   1300.0    500    0.560     0.545 0.278  0.270    0.069
+   1300.0   1000    0.426     0.422 0.194  0.161    0.065
+   1300.0   2000    0.136     0.085 0.148 -0.038    0.065
+
+wrote school_validation.csv, validation_metrics_*.csv, validation_sensitivity.csv, figures

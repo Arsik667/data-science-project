@@ -1,0 +1,52 @@
+=== Survey matching
+survey_match_method
+exact         147
+manual         37
+fuzzy          24
+normalised     17
+
+accepted fuzzy matches (score >= 95):
+ EstablishmentNumber                                                      name_school_list                                                            name_survey  survey_match_score
+                3054                   Bramley St Peter's Church of England Primary School    Bramley St Peter's Church of England Voluntary Aided Primary School               100.0
+                3056             St Bartholomew's CofE Voluntary Controlled Primary School St Bartholomew's Church of England Voluntary Controlled Primary School               100.0
+                3364                                  Rothwell St Mary's RC Primary School                             Rothwell St Mary's Catholic Primary School               100.0
+                3379                                   St Philip's Catholic Primary School                        St Philip's Catholic Primary and Nursery School               100.0
+                3382                                    St Patrick Catholic Primary School                                   St Patrick's Catholic Primary School                95.0
+                3909            All Saint's Richmond Hill Church of England Primary School                         All Saints Richmond Hill C Of E Primary School               100.0
+                3928                                  Valley View Community Primary School                                             Valley View Primary School               100.0
+                3929                                           Shire Oak VC Primary School        Shire Oak Church Of England Voluntary Controlled Primary School               100.0
+                2513                                  Otley All Saints CofE Primary School                      Otley All Saints Church of England Primary School               100.0
+                3922                                                     Hollybush Primary                                               Hollybush Primary School               100.0
+                3925                                  Great Preston VC CofE Primary School                         Great Preston Church of England Primary School               100.0
+                3931                                          Allerton CofE Primary School                              Allerton Church Of England Primary School               100.0
+                3365                                 St Benedict's Catholic Primary School            St Benedict's Catholic Primary School - A Voluntary Academy               100.0
+                3359                          St Mary's Catholic Primary School, Horsforth     St Mary's Catholic Primary School, Horsforth - A Voluntary Academy               100.0
+                3360                            St Joseph's Catholic Primary School, Otley        St Josephs Catholic Primary School, Otley - A Voluntary Academy               100.0
+                2018                                          Ebor Gardens Primary Academy                                            Ebor Gardens Primary School               100.0
+                2328                                            Swillington Primary School                                            Swillington Primary Academy               100.0
+                2399                                           Kippax North Primary School                         Kippax North Junior, Infant and Nursery School               100.0
+                3377             Sacred Heart Catholic Primary School, a Voluntary Academy                                   Sacred Heart Catholic Primary School               100.0
+                3381 Immaculate Heart of Mary Catholic Primary School, A Voluntary Academy                       Immaculate Heart Of Mary Catholic Primary School               100.0
+                2035                         Micklefield Church of England Primary Academy                                     Micklefield C Of E Primary Academy               100.0
+                2286                                              Churwell Primary Academy                                                Churwell Primary School               100.0
+                3030                             Aberford Church of England Primary School         Aberford Church of England Voluntary Controlled Primary School               100.0
+                3350                                      St. Oswald's CofE Primary School                           St Oswald's Church of England Primary School               100.0
+
+=== Cut-off PDF matching
+pdf_match_method
+dfe_number    222
+manual          3
+number matches whose names look different (token score < 70) - checked by eye:
+ EstablishmentNumber                                                name_school_list                                                                 name_pdf  pdf_name_score
+                2342                                          Victoria Junior School                                          Rothwell Victoria Junior School            64.0
+                2358                                           Yeadon Primary School                                           Yeadon Westfield Infant School            55.0
+                3045 St James' Church of England Voluntary Controlled Primary School Wetherby St James' Church of England Voluntary Controlled Primary School            64.0
+                2033                      St Marys Church of England Primary Academy                     St Mary's Church of England Primary Academy, Hunslet            67.0
+                2034                                      Alder Tree Primary Academy                              Alder Tree Primary Academy (previously Mill            56.0
+PDF rows not linked to any listed school:
+ dfe                       name_pdf            distance_raw
+2324 Yeadon Westfield Junior School All applicants admitted
+
+survey schools not linked to any listed school: 52
+
+wrote outputs/school_key.csv and outputs/cutoff_parsed.csv

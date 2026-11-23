@@ -1,0 +1,39 @@
+EstablishmentNumber,name_survey,pdf_dfe,confidence,note
+2024,Elements Primary Free School,,high,same school; survey adds 'Free'
+2365,"Lowtown Primary School, Pudsey",,high,same school; survey adds town
+2342,Rothwell Victoria Junior School,,high,PDF row 2342 has the same name 'Rothwell Victoria Junior School'
+3045,Wetherby St James' Church of England Voluntary Controlled Primary School,,high,PDF row 3045 has the same name
+5200,Lady Elizabeth Hastings Church of England (Aided) Primary School (L),,high,(L) = Ledston; PDF 5200 says '(Ledston)'
+3356,Lady Elizabeth Hastings Church of England (Aided) Primary School (TA),,high,(TA) = Thorp Arch; PDF 3356 says '(Thorpe Arch)'
+2358,Yeadon Westfield Infant School,,medium,PDF row 2358 = 'Yeadon Westfield Infant School'; list calls it 'Yeadon Primary School' (likely merged with the junior school 2324 which is not in our list); survey junior row (26 pupils) left out
+2039,Ingram Road Primary School,2476,medium,Cockburn Ingram Road Academy = former Ingram Road Primary (academy conversion gives a new DfE number); PDF has it under 2476
+2041,,2487,high,same name in PDF under a different DfE number
+2038,NO_MATCH,2414,high,same name in PDF under a different DfE number; no survey row (survey 'Park Spring' is a different school)
+2271,NO_MATCH,,high,no survey row (best fuzzy 'Little London Academy' is a different school)
+2302,NO_MATCH,,high,no survey row
+2334,NO_MATCH,,high,no survey row ('Lane End' is different)
+2347,NO_MATCH,,high,no survey row ('Cross Gates' is different)
+2369,NO_MATCH,,high,no survey row ('Highfield' is different)
+2452,NO_MATCH,,high,no survey row ('Beecroft' is different)
+2464,NO_MATCH,,high,no survey row
+2491,NO_MATCH,,high,no survey row
+3052,NO_MATCH,,high,no survey row
+3351,NO_MATCH,,high,no survey row ('Hawksworth Wood' is a different school)
+3357,NO_MATCH,,high,Collingham LEH: survey only has the Ledston (L) and Thorp Arch (TA) LEH schools
+3366,NO_MATCH,,high,no survey row (St Joseph's Wetherby is not Wetherby St James)
+3912,NO_MATCH,,high,no survey row ('St Paul's Catholic' is different)
+2006,NO_MATCH,,high,no survey row
+2007,NO_MATCH,,high,no survey row ('Co-op Academy Brierley' is a different school)
+2008,NO_MATCH,,high,no survey row
+3361,NO_MATCH,,high,no survey row ('St Joseph's Otley' is already matched to 3360)
+2013,NO_MATCH,,high,no survey row
+4068,NO_MATCH,,high,all-through; 'Temple Moor High School' is a different secondary school
+4075,NO_MATCH,,high,all-through; 'Dixons Unity Academy' is a different school
+3920,NO_MATCH,,high,no survey row
+3923,NO_MATCH,,high,no survey row
+2027,NO_MATCH,,high,no survey row
+3383,NO_MATCH,,high,no survey row
+3371,NO_MATCH,,high,no survey row ('St Francis Morley' is different)
+3033,NO_MATCH,,high,no survey row
+3329,NO_MATCH,,high,no survey row ('Roundhay School' is the all-through school 4063)
+3926,NO_MATCH,,high,no survey row ('Oulton Academy' is a secondary school)
