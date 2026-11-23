@@ -1,0 +1,20 @@
+# environment
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+.claude/
+
+# large generated matrices (about 37 MB each) - rebuilt by `make pipeline`
+outputs/*.npy
+
+# team / university documents: not ours to publish
+Project Report Draft.docx
+Data_Source_Guide*.docx
+Notes of any updates to the files.docx
+data changes record.docx
+ds.csv
+postcode locations.xlsx
+~$*.docx
