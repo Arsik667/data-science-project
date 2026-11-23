@@ -1,0 +1,22 @@
+=== Distance matrix
+shape (20799, 225), size 37.4 MB, all distances: min 0 m, max 31,756 m
+=== Distance to nearest school (per postcode)
+median 425 m | mean 501 m | p90 904 m | max 3,612 m
+postcodes > 1 km: 1567 | > 2 km: 132 | > 3 km: 13
+child-weighted median distance: 382 m
+postcodes > 3 km hold 5.8 estimated children
+
+=== Method 1 (nearest school)
+total est_kids 68,784.9 | est_car_kids_m1 (upper bound) 49,467.5 = 71.9%
+schools that are nobody's nearest: 0
+assigned kids / capacity: median 0.88 | <0.5: 36 schools | >1.5: 25 schools | max 3.79
+most overloaded under Method 1:
+ EstablishmentNumber                                   EstablishmentName  SchoolCapacity  NumberOfPupils  assigned_kids  assigned_over_capacity
+                3367       St Anthony's Catholic Primary School, Beeston             210           210.0         794.88                    3.79
+                2384                    Kippax Greenfield Primary School             120           142.0         344.48                    2.87
+                2356                            Queensway Primary School             105            35.0         298.69                    2.84
+                3329 Roundhay St John's Church of England Primary School             210           241.0         580.77                    2.77
+                2005                           Park View Primary Academy             262           228.0         698.67                    2.67
+corr(assigned_kids, NumberOfPupils) over 222 schools: 0.167
+
+wrote dist_matrix.npy, row/col order files, method1_postcode.csv, method1_school.csv, 2 figures
