@@ -1,0 +1,72 @@
+=== Schools
+all-through (DfE 4xxx): ['Carr Manor Community School', 'Roundhay School', 'Temple Learning Academy', 'Dixons Trinity Chapeltown']
+imputed rolls (capacity x median fill 0.951): [['Otley the Whartons Primary School', 200.0], ["St. Oswald's CofE Primary School", 424.0], ['Cobden Primary School', 200.0]]
+schools used for calibration: 218 | total primary capacity 78,760 | effective capacity 80,442 | primary roll 73,614 | est_kids 68,784.9
+
+=== Calibration grid (geography only: A = 1, no cap)
+ form   param  rmse_fold0  rmse_fold1  rmse_all  median_trip_m
+  exp  150.00      149.71      126.88    139.05         432.14
+  exp  200.00      143.88      118.56    132.10         465.42
+  exp  300.00      135.14      106.59    121.95         543.81
+  exp  400.00      130.04      100.39    116.41         633.80
+  exp  450.00      128.53       98.89    114.92         684.95
+  exp  500.00      127.49       98.13    114.03         738.81
+  exp  550.00      126.76       97.93    113.54         796.40
+  exp  600.00      126.23       98.11    113.33         854.79
+  exp  650.00      125.83       98.55    113.31         913.30
+  exp  700.00      125.52       99.17    113.42         975.72
+  exp  800.00      125.07      100.70    113.85        1101.05
+  exp 1000.00      124.76      104.14    115.22        1358.50
+  exp 1500.00      126.51      111.96    119.71        2018.05
+  exp 2000.00      129.35      117.77    123.90        2670.52
+power    1.00      129.61      114.35    122.37        4965.25
+power    1.50      127.46      110.11    119.47        2488.56
+power    1.75      126.74      106.61    117.59        1559.55
+power    2.00      126.72      103.95    116.48        1026.40
+power    2.25      127.49      102.88    116.49         754.48
+power    2.50      128.96      103.37    117.54         619.48
+power    2.75      130.90      104.97    119.32         549.16
+power    3.00      133.11      107.18    121.52         506.25
+power    3.50      137.65      112.18    126.20         459.57
+power    4.00      141.74      116.90    130.52         434.50
+power    5.00      147.93      124.43    137.22         411.53
+
+=== 2-fold out-of-sample check (choose on one half of schools, score on the other)
+ form  fit_fold  chosen_param  rmse_test_fold
+  exp         0        1000.0           104.1
+  exp         1         550.0           126.8
+power         0           2.0           103.9
+power         1           2.2           127.5
+
+mean out-of-sample RMSE: {'exp': 115.4, 'power': 115.7} -> main form = exp, param = 650
+
+=== Refinement ladder
+                               version  corr_with_roll  rmse_vs_roll  schools_over_eff_cap  median_trip_m  car_kids_main  car_share_main  car_kids_baseline                    note
+                     M1 nearest school           0.391       159.513                    89        382.154       7027.693           0.102          49467.451                        
+            M2a exp decay only (p=650)           0.548       113.314                    85        913.302      24207.877           0.352          49467.451                        
+             M2b exp + capacity weight           0.868        72.097                    44        913.898      24241.199           0.352          49467.451                        
+            M2a power decay only (p=2)           0.523       116.475                    83       1026.397      27129.726           0.394          49467.451                        
+           M2b power + capacity weight           0.864        78.807                    31       1037.903      27335.106           0.397          49467.451                        
+M2c exp + capacity weight + cap (MAIN)           0.884        66.571                     0        917.187      24318.859           0.354          49467.451 66 balancing iterations
+schools with balancing factor B < 1: 59 | min B 0.120
+
+=== Main model outputs
+row sums: min 1.000000, max 1.000000
+est_car_kids (main, g(d) with d50=1000 m): 24,318.9 = 35.4% of children
+est_car_kids (baseline g=1, upper bound):     49,467.5 = 71.9%
+per-postcode est_car_rate: median 0.338, p10 0.181, p90 0.601
+per-school pred_car_share: median 0.359, p10 0.277, p90 0.446
+implied catchment p80: median 1730 m, max 3672 m
+
+=== Sensitivity (one change at a time)
+               assumption value  car_kids  car_share  median_trip_m   rmse  corr
+                     main     - 24318.859      0.354        917.187 66.571 0.884
+        decay parameter x   0.5 14205.170      0.207        576.545 76.403 0.843
+        decay parameter x  0.75 19565.456      0.284        731.908 70.007 0.869
+        decay parameter x   1.5 31314.985      0.455       1326.921 65.414 0.892
+        decay parameter x   2.0 35809.367      0.521       1749.370 67.658 0.889
+    g(d) midpoint d50 (m)   500 36471.124      0.530        917.187 66.571 0.884
+    g(d) midpoint d50 (m)   750 30300.316      0.441        917.187 66.571 0.884
+    g(d) midpoint d50 (m)  1500 14665.698      0.213        917.187 66.571 0.884
+    g(d) midpoint d50 (m)  2000  8390.451      0.122        917.187 66.571 0.884
+all-through primary share   0.3 24292.864      0.353        915.894 64.449 0.891
