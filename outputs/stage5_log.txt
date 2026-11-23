@@ -1,0 +1,47 @@
+=== Data check: ReligiousEthos field vs school name
+ethos_field               Church of England  Does not apply  Sikh  missing
+denomination                                                              
+Catholic                                  0              25     0        2
+Church of England                         3              33     0        1
+No religious designation                  0             146     1       14
+-> the field marks 0 of the Catholic schools; denomination is taken from the name.
+
+=== A. Error by denomination (survey-compared primary schools, n = 194)
+error = predicted - observed car/van share; negative = model UNDER-estimates car use
+                   group  n_schools  survey_pupils  obs_share  pred_share  mean_error  ci_low  ci_high  mean_error_pupil_weighted  ci_low_w  ci_high_w  share_underpredicted_by_10pp
+                Catholic         23           5557      0.522       0.355      -0.167  -0.234   -0.101                     -0.163    -0.237     -0.092                         0.609
+       Church of England         29           7505      0.378       0.377      -0.001  -0.049    0.048                      0.018    -0.024      0.059                         0.207
+No religious designation        142          47739      0.338       0.356       0.018  -0.005    0.039                      0.021    -0.004      0.045                         0.204
+Kruskal-Wallis across 3 groups p = 0.0000; Mann-Whitney vs no designation: Catholic p = 0.0000, CofE p = 0.7034
+
+OLS error ~ denomination + catchment car rate (bootstrap 95% CI, seed 42):
+              term   coef  ci_low  ci_high
+         intercept  0.411   0.313    0.510
+          Catholic -0.199  -0.258   -0.143
+ Church of England  0.001  -0.044    0.051
+catchment car rate -0.535  -0.673   -0.399
+
+=== B. Error by quintile of catchment car-access rate (proxy for income)
+                    n  catchment_car_rate  obs_share  pred_share  mean_error  mean_abs_error
+car_rate_quintile                                                                           
+Q1 lowest          39               0.544      0.205       0.287       0.082           0.114
+Q2                 39               0.666      0.310       0.357       0.047           0.121
+Q3                 38               0.773      0.455       0.401      -0.054           0.120
+Q4                 39               0.827      0.389       0.372      -0.017           0.139
+Q5 highest         39               0.878      0.474       0.380      -0.093           0.126
+Spearman(catchment car rate, error) = -0.396, p = 0.0000
+
+=== C. School errors propagated to postcodes (diagnostic only, NOT a correction)
+postcodes with >= 50% of attendance at surveyed schools: 20169 of 20799 (97.5% of children)
+children-weighted propagated error: mean 0.011, p10 -0.101, p50 0.028, p90 0.108
+children in postcodes with |propagated error| > 0.05: 43,029 (64.2%)
+children in postcodes with |propagated error| > 0.10: 16,079 (24.0%)
+Spearman across postcodes: Catholic-school exposure vs propagated error 0.105; car_rate vs propagated error -0.532
+caveat: Catholic schools draw pupils from far away (the survey shows high car use), but the model
+sends their places to NEARBY postcodes, so the error lands near the school, not where the real
+pupils live. The map shows where estimates are least reliable, not who is mis-priced.
+
+=== D. Religion by OA
+NOT RUN: 'religion by oa.csv' not provided. Method in outputs/fairness_method.md; religion_check() is tested on synthetic data (tests/test_stage5.py).
+
+wrote outputs/fairness_*.csv, figures/stage5_*.png

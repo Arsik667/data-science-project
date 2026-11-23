@@ -1,0 +1,226 @@
+EstablishmentNumber,name_school_list,denomination,ethos_field,in_survey_comparison,survey_total,obs_share,pred_share_M2,error_M2,catchment_car_rate
+2270,Guiseley Primary School,No religious designation,Does not apply,True,401.0,0.4463840399002494,0.3724030329517987,-0.07398100694845067,0.8573007267392458
+2271,Rawdon Littlemoor Primary School,No religious designation,Does not apply,False,,,0.36886707475585084,,0.8651370841359872
+2275,Scholes (Elmet) Primary School,No religious designation,Does not apply,True,335.0,0.591044776119403,0.4189793891289674,-0.17206538699043555,0.7830918084469088
+2283,Horsforth Featherbank Primary School,No religious designation,Does not apply,True,203.0,0.10837438423645321,0.363994079218181,0.25561969498172776,0.8071728781438211
+2293,Seven Hills Primary School,No religious designation,Does not apply,True,438.0,0.4223744292237443,0.3709176113516009,-0.0514568178721434,0.7669760635170131
+2302,Farsley Westroyd Primary School and Nursery,No religious designation,Does not apply,False,,,0.42979227681767174,,0.8015974123721601
+2303,Greenside Primary School,No religious designation,Does not apply,True,279.0,0.40860215053763443,0.3681574207196615,-0.040444729817972924,0.8065209096039947
+2308,Carlton Primary School,No religious designation,Does not apply,True,324.0,0.6141975308641975,0.5112298866961349,-0.10296764416806259,0.8268999134592212
+2309,Robin Hood Primary School,No religious designation,Does not apply,True,447.0,0.5279642058165548,0.4220684436460302,-0.1058957621705246,0.8513264186137474
+2312,Thorpe Primary School,No religious designation,Does not apply,True,230.0,0.5,0.4433858251244126,-0.0566141748755874,0.8419377293447271
+2314,Woodlesford Primary School,No religious designation,Does not apply,True,444.0,0.41216216216216217,0.3273320923608749,-0.08483006980128727,0.8305170904979277
+2327,Oulton Primary School,No religious designation,Does not apply,True,320.0,0.440625,0.3006437504313621,-0.1399812495686379,0.814121687298514
+2329,Bramham Primary School,No religious designation,Does not apply,True,188.0,0.425531914893617,0.3053412203841545,-0.12019069450946251,0.8983063195858862
+2331,Pudsey Bolton Royd Primary School,No religious designation,Does not apply,True,446.0,0.5493273542600897,0.29093693141004584,-0.2583904228500439,0.8404143022766991
+2334,West End Primary School,No religious designation,Does not apply,False,,,0.4710274857296967,,0.8722966572006081
+2335,Southroyd Primary and Nursery School,No religious designation,Does not apply,True,373.0,0.4450402144772118,0.32803301146211233,-0.11700720301509948,0.8102624854187787
+2336,Gildersome Primary School,No religious designation,Does not apply,True,388.0,0.4742268041237113,0.34146644747772653,-0.1327603566459848,0.8106521277704667
+2338,Farsley Springbank Primary School,No religious designation,Does not apply,True,418.0,0.22248803827751196,0.43058887614190117,0.2081008378643892,0.8062082498347889
+2342,Victoria Junior School,No religious designation,Does not apply,True,123.0,0.4065040650406504,0.3021731124127016,-0.10433095262794878,0.7826864765259055
+2347,Crossley Street Primary School,No religious designation,Does not apply,False,,,0.39426959381035726,,0.8777285622641374
+2348,Tranmere Park Primary School,No religious designation,Does not apply,True,315.0,0.3333333333333333,0.36353434270550544,0.030201009372172127,0.9063365090657293
+2356,Queensway Primary School,No religious designation,Does not apply,True,81.0,0.25925925925925924,0.38134879146062267,0.12208953220136343,0.7971459251194173
+2358,Yeadon Primary School,No religious designation,Does not apply,True,136.0,0.2647058823529412,0.40334050523190346,0.13863462287896228,0.8425870503090852
+2363,Horsforth Newlaithes Primary School,No religious designation,Does not apply,True,416.0,0.25,0.47261490241569776,0.22261490241569776,0.8275420830986514
+2364,Westbrook Lane Primary School,No religious designation,Does not apply,True,206.0,0.3592233009708738,0.458937890194851,0.09971458922397719,0.8390065070145133
+2365,Lowtown Primary School,No religious designation,Does not apply,True,162.0,0.3271604938271605,0.4031117563176592,0.07595126249049872,0.7663398800744128
+2369,Birchfield Primary School,No religious designation,Does not apply,False,,,0.3762978714057051,,0.8182372129432126
+2389,Primrose Lane Primary School,No religious designation,Does not apply,True,192.0,0.3854166666666667,0.3081961825054612,-0.07722048416120547,0.8693141186699612
+2390,Wigton Moor Primary School,No religious designation,Does not apply,True,419.0,0.4033412887828162,0.3774185858283731,-0.0259227029544431,0.8916233722901761
+2397,Ninelands Primary School,No religious designation,Does not apply,True,444.0,0.4346846846846847,0.3475630868451829,-0.0871215978395018,0.8507406648630363
+2398,Broadgate Primary School,No religious designation,Does not apply,True,422.0,0.4928909952606635,0.37854702942665847,-0.11434396583400502,0.7881840279555297
+2400,Deighton Gates Primary School,No religious designation,Does not apply,True,209.0,0.18181818181818182,0.28323328991016355,0.10141510809198173,0.8971051484921942
+2403,Westgate Primary School,No religious designation,Does not apply,True,238.0,0.12605042016806722,0.3885080367299183,0.26245761656185107,0.8246121739397556
+2407,Beecroft Primary School,No religious designation,Does not apply,True,337.0,0.5786350148367952,0.39321949736464934,-0.1854155174721459,0.6314247887326878
+2408,Blenheim Primary School,No religious designation,Does not apply,True,467.0,0.29336188436830835,0.2927093164598437,-0.0006525679084646296,0.4982680529215908
+2409,Brudenell Primary School,No religious designation,Does not apply,True,217.0,0.24423963133640553,0.34722143929525645,0.10298180795885092,0.5995837333097287
+2410,Iveson Primary School,No religious designation,Does not apply,True,394.0,0.5710659898477157,0.4258351432323406,-0.1452308466153751,0.7687868058986145
+2411,Kirkstall Valley Primary School,No religious designation,Does not apply,True,230.0,0.3,0.38402420075440485,0.08402420075440487,0.598295368520217
+2413,Quarry Mount Primary School,No religious designation,Does not apply,True,186.0,0.07526881720430108,0.3337416227351549,0.25847280553085383,0.5624223621567863
+2415,Rosebank Primary School,No religious designation,Does not apply,True,368.0,0.33695652173913043,0.3252002601099676,-0.011756261629162823,0.5167330002135011
+2416,Adel Primary School,No religious designation,Does not apply,True,230.0,0.5826086956521739,0.48412385092712246,-0.09848484472505142,0.8614448059589573
+2417,Hawksworth Wood Primary School,No religious designation,Does not apply,True,317.0,0.19242902208201892,0.3653563642159344,0.1729273421339155,0.7052054249612567
+2418,Cookridge Primary School,No religious designation,Does not apply,True,318.0,0.44654088050314467,0.3514254721676146,-0.09511540833553006,0.791131713814939
+2420,Ireland Wood Primary School,No religious designation,Does not apply,True,407.0,0.4742014742014742,0.3916733634188686,-0.08252811078260558,0.7971499118313198
+2421,Weetwood Primary School,No religious designation,Does not apply,True,263.0,0.376425855513308,0.4231401590206388,0.0467143035073308,0.7549054771701929
+2425,Bankside Primary School,No religious designation,Does not apply,True,658.0,0.04711246200607903,0.279618362791831,0.23250590078575198,0.5561529953846238
+2427,Chapel Allerton Primary School,No religious designation,Does not apply,True,425.0,0.20470588235294118,0.44283713551058734,0.23813125315764616,0.7018104860503195
+2428,Gledhow Primary School,No religious designation,Does not apply,True,669.0,0.375186846038864,0.48194610346821537,0.10675925742935138,0.7782603709310195
+2433,Bracken Edge Primary School,No religious designation,Does not apply,True,416.0,0.30528846153846156,0.3663721511638861,0.06108368962542454,0.6213983372286037
+2434,Kerr Mackie Primary School,No religious designation,Does not apply,True,419.0,0.5202863961813843,0.4929614311813831,-0.0273249650000012,0.761418081217981
+2436,Alwoodley Primary School,No religious designation,Does not apply,True,483.0,0.41200828157349895,0.4213178810166232,0.009309599443124261,0.8229778354927941
+2438,Highfield Primary School,No religious designation,Does not apply,True,391.0,0.24552429667519182,0.4136729760544387,0.16814867937924688,0.8579758040488391
+2439,Moor Allerton Hall Primary School,No religious designation,Does not apply,True,567.0,0.4514991181657848,0.45378021262314894,0.00228109445736413,0.8185182975783314
+2440,Moortown Primary School,No religious designation,Does not apply,True,210.0,0.19047619047619047,0.4525471847214315,0.26207099424524105,0.8222878699759943
+2441,Shadwell Primary School,No religious designation,Does not apply,True,200.0,0.47,0.4951222546845621,0.02512225468456214,0.9224172419232555
+2444,Beechwood Primary School,No religious designation,Does not apply,True,58.0,0.3448275862068966,0.3592751702650999,0.014447584058203344,0.6499949730413584
+2447,Grange Farm Primary School,No religious designation,Does not apply,True,431.0,0.12761020881670534,0.3571104820173975,0.22950027320069213,0.6768234266437626
+2448,Grimes Dyke Primary School,No religious designation,Does not apply,True,226.0,0.15486725663716813,0.33732649355389904,0.1824592369167309,0.7025688557112536
+2449,Harehills Primary School,No religious designation,Does not apply,True,417.0,0.06474820143884892,0.26013043899510563,0.19538223755625672,0.5395859252922707
+2452,Seacroft Grange Primary School,No religious designation,Does not apply,False,,,0.3482107691559153,,0.638390236326092
+2456,White Laith Primary School,No religious designation,Does not apply,True,230.0,0.36086956521739133,0.3386651813015687,-0.022204383915822634,0.7371659215848012
+2457,Wykebeck Primary School,No religious designation,Does not apply,True,417.0,0.290167865707434,0.34869068033525885,0.058522814627824826,0.6059651170618395
+2458,Cross Gates Primary School,No religious designation,Does not apply,True,268.0,0.3283582089552239,0.370278927403622,0.04192071844839812,0.6994785338525225
+2462,Shakespeare Primary School,No religious designation,Does not apply,True,735.0,0.11428571428571428,0.3027413409838391,0.18845562669812482,0.4879082957545637
+2464,Manston Primary,No religious designation,Does not apply,False,,,0.36363225927891024,,0.7199795473539888
+2467,Parklands Primary School,No religious designation,Does not apply,True,31.0,0.5483870967741935,0.3576247743173545,-0.190762322456839,0.6515940803988469
+2468,Swarcliffe Primary School,No religious designation,Does not apply,True,323.0,0.19504643962848298,0.3354826606602972,0.14043622103181422,0.6787258131857716
+2469,Fieldhead Carr Primary School,No religious designation,Does not apply,True,392.0,0.6224489795918368,0.37217965345700454,-0.2502693261348322,0.7735858614905208
+2470,Beeston Primary School,No religious designation,Does not apply,True,675.0,0.3037037037037037,0.36813859075786437,0.06443488705416067,0.6159640865455797
+2471,Windmill Primary School,No religious designation,Does not apply,True,58.0,0.1724137931034483,0.27215673177020433,0.09974293866675604,0.5972435035116546
+2473,Greenmount Primary School,No religious designation,Does not apply,True,484.0,0.27479338842975204,0.20231196706474897,-0.07248142136500307,0.527598659537924
+2474,Hunslet Carr Primary School,No religious designation,Does not apply,True,367.0,0.27520435967302453,0.2881579998876056,0.012953640214581064,0.552101779454248
+2475,Hunslet Moor Primary School,No religious designation,Does not apply,True,457.0,0.16849015317286653,0.24864729295016777,0.08015713977730124,0.5119851671244016
+2478,Westwood Primary School,No religious designation,Does not apply,True,305.0,0.12786885245901639,0.3629398834530937,0.2350710309940773,0.6598111948601121
+2481,Low Road Primary School,No religious designation,Does not apply,True,22.0,0.36363636363636365,0.3308157083031088,-0.032820655333254845,0.5359241140700179
+2482,Clapgate Primary School,No religious designation,Does not apply,True,444.0,0.2927927927927928,0.39155381222385444,0.09876101943106164,0.7197139541005124
+2483,Hugh Gaitskell Primary School,No religious designation,Does not apply,True,570.0,0.13508771929824562,0.30501159363666797,0.16992387433842235,0.6088506139983688
+2486,Castleton Primary School,No religious designation,Does not apply,True,367.0,0.013623978201634877,0.30911277550097627,0.2954887972993414,0.5433506061217653
+2488,Park Spring Primary School,No religious designation,Does not apply,True,396.0,0.5404040404040404,0.4146858910003786,-0.12571814940366183,0.6996841122325262
+2490,Stanningley Primary School,No religious designation,Does not apply,True,217.0,0.3824884792626728,0.4180220959992749,0.0355336167366021,0.7321274601019866
+2491,Summerfield Primary School,No religious designation,Does not apply,False,,,0.42836267846412485,,0.7483490634099923
+2492,Five Lanes Primary School,No religious designation,Does not apply,True,433.0,0.36027713625866054,0.3130039851785664,-0.04727315108009411,0.619114958588402
+2493,Whingate Primary School,No religious designation,Does not apply,True,73.0,0.3150684931506849,0.3366120740133596,0.02154358086267466,0.6224569953653155
+2494,Whitecote Primary School,No religious designation,Does not apply,True,459.0,0.20697167755991286,0.3711494476568441,0.16417777009693124,0.6692536784764535
+2496,Lower Wortley Primary School,No religious designation,Does not apply,True,339.0,0.3215339233038348,0.3199563216635047,-0.0015776016403301063,0.6884917952016553
+2497,Lawns Park Primary School,No religious designation,Does not apply,True,235.0,0.25957446808510637,0.35386783821082296,0.09429337012571659,0.6871954494297894
+2499,Greenhill Primary School,No religious designation,Does not apply,True,404.0,0.24504950495049505,0.35456910901303795,0.10951960406254291,0.6626075136793801
+2503,Swinnow Primary School,No religious designation,Does not apply,True,251.0,0.23107569721115537,0.4095234847474477,0.17844778753629234,0.7348920265868859
+2505,Farsley Farfield Primary School,No religious designation,Does not apply,True,440.0,0.4909090909090909,0.4290752055707101,-0.0618338853383808,0.8252877397913789
+2506,Rothwell Primary School,No religious designation,Does not apply,True,305.0,0.4819672131147541,0.4028340463229413,-0.07913316679181281,0.7978202704631937
+2510,Sharp Lane Primary School,No religious designation,Does not apply,True,625.0,0.4816,0.36366977184094906,-0.11793022815905091,0.7274910889481779
+3031,Rawdon St Peter's Church of England Voluntary Controlled Primary School,Church of England,Does not apply,True,269.0,0.483271375464684,0.4452577729789233,-0.03801360248576069,0.8823466672887103
+3037,Harewood Church of England Voluntary Controlled Primary School,Church of England,Does not apply,True,100.0,0.87,0.5563857355979722,-0.3136142644020278,0.9110514413936388
+3038,St Margaret's Church of England Voluntary Controlled Primary School,Church of England,Does not apply,True,415.0,0.41445783132530123,0.3910372670474327,-0.02342056427786854,0.800653458115005
+3045,St James' Church of England Voluntary Controlled Primary School,Church of England,Does not apply,True,158.0,0.25949367088607594,0.3682584342997172,0.10876476341364127,0.8444790229002496
+3046,Calverley Church of England Voluntary Aided Primary School,Church of England,Does not apply,True,352.0,0.3522727272727273,0.4220174220701031,0.06974469479737583,0.8978271351230317
+3047,St Mary's Church of England Controlled Primary School Boston Spa,Church of England,Does not apply,True,135.0,0.37777777777777777,0.3259685359824458,-0.05180924179533197,0.8738889088349467
+3051,Pool-in-Wharfedale Church of England Voluntary Controlled Primary School,Church of England,Does not apply,True,189.0,0.4708994708994709,0.23577850080035204,-0.23512097009911884,0.9227857805886343
+3052,Burley St Matthias Church of England Voluntary Controlled Primary School,Church of England,Does not apply,False,,,0.35208783535217003,,0.57808802121855
+3053,Middleton St Mary's Church of England Voluntary Controlled Primary School,Church of England,Does not apply,True,421.0,0.20665083135391923,0.36765785290567904,0.1610070215517598,0.6740344296522953
+3054,Bramley St Peter's Church of England Primary School,Church of England,Does not apply,True,401.0,0.22194513715710723,0.3506958774674187,0.12875074031031147,0.657979937215038
+3056,St Bartholomew's CofE Voluntary Controlled Primary School,Church of England,Does not apply,True,218.0,0.12844036697247707,0.29121207843090946,0.1627717114584324,0.5758650896381818
+3351,Hawksworth Church of England Primary School,Church of England,Does not apply,False,,,0.6336890329753059,,0.9180150169538696
+3356,"Lady Elizabeth Hastings' CofE VA Primary School, Thorp Arch",Church of England,Does not apply,True,109.0,0.6972477064220184,0.5342983340016717,-0.16294937242034668,0.8827349881349845
+3357,Collingham Lady Elizabeth Hastings Church of England Voluntary Aided Primary School,Church of England,Does not apply,False,,,0.31536496414480425,,0.9316296987706914
+3358,"St Edward's Catholic Primary School, Boston Spa",Catholic,Does not apply,True,192.0,0.6458333333333334,0.3191289264092988,-0.3267044069240346,0.872797909647649
+3362,"St Francis Catholic Primary School, Morley",Catholic,Does not apply,True,253.0,0.932806324110672,0.40209126023029595,-0.530715063880376,0.7844979912746698
+3364,Rothwell St Mary's RC Primary School,Catholic,Does not apply,True,210.0,0.7095238095238096,0.4522497466013629,-0.25727406292244664,0.8199133036687435
+3366,"St Joseph's Catholic Primary School, Wetherby",Catholic,Does not apply,False,,,0.3257638395548767,,0.8863055471564342
+3367,"St Anthony's Catholic Primary School, Beeston",Catholic,Does not apply,True,216.0,0.49537037037037035,0.24656359718168175,-0.2488067731886886,0.5938360821982033
+3370,Corpus Christi Catholic Primary School,Catholic,Does not apply,True,272.0,0.3860294117647059,0.2932081297970906,-0.0928212819676153,0.6056238802859065
+3372,Holy Family Catholic Primary School,Catholic,Does not apply,True,233.0,0.26609442060085836,0.29293394774993053,0.026839527149072173,0.5538614227714562
+3374,"St Joseph's Catholic Primary School, Hunslet",Catholic,Does not apply,True,204.0,0.3284313725490196,0.33868024973209915,0.010248877183079541,0.5196265098099601
+3375,St Nicholas Catholic Primary School,Catholic,Does not apply,True,316.0,0.3322784810126582,0.35235754919897344,0.02007906818631522,0.6399062967178517
+3376,Our Lady of Good Counsel Catholic Primary School,Catholic,Does not apply,True,224.0,0.48214285714285715,0.3633402292650482,-0.11880262787780893,0.6629292917973653
+3379,St Philip's Catholic Primary School,Catholic,Does not apply,True,228.0,0.6140350877192983,0.367176434952094,-0.24685865276720426,0.6688513505172262
+3382,St Patrick Catholic Primary School,Catholic,Does not apply,True,205.0,0.3463414634146341,0.2653996317127535,-0.08094183170188063,0.5127829960278283
+3385,St Theresa's Catholic Primary School,Catholic,Does not apply,True,422.0,0.7227488151658767,0.3789749518663128,-0.34377386329956394,0.6958447866760894
+3902,Adel St John the Baptist Church of England Primary School,Church of England,Does not apply,True,194.0,0.5257731958762887,0.4619999349378813,-0.0637732609384074,0.8685100202354726
+3903,Cookridge Holy Trinity Church of England Primary School,Church of England,Does not apply,True,385.0,0.5168831168831168,0.3606961861898282,-0.15618693069328865,0.8288730419717026
+3904,Kirkstall St Stephen's Church of England (VA) Primary School,Church of England,Does not apply,True,205.0,0.424390243902439,0.3829888594850156,-0.041401384417423415,0.6475742876794638
+3907,Meanwood Church of England Primary School,Church of England,Does not apply,True,216.0,0.3333333333333333,0.4297106600416863,0.09637732670835297,0.7555136131544735
+3909,All Saint's Richmond Hill Church of England Primary School,Church of England,Does not apply,True,250.0,0.164,0.24662124040269795,0.08262124040269794,0.492393192245357
+3912,Whinmoor St Paul's Church of England Primary School,Church of England,Does not apply,False,,,0.33087877027825735,,0.7652900746724625
+3913,Beeston Hill St Luke's Church of England Primary School,Church of England,Does not apply,True,497.0,0.2676056338028169,0.2240522828266388,-0.043553350976178073,0.5249976693963958
+3915,Brodetsky Primary School,No religious designation,Does not apply,True,208.0,0.7163461538461539,0.4350149568385405,-0.28133119700761333,0.8465594803567905
+4041,Carr Manor Community School,No religious designation,Does not apply,False,1090.0,0.3440366972477064,0.42214648395532434,0.07810978670761792,0.7715706775919687
+4063,Roundhay School,No religious designation,Does not apply,False,2511.0,0.345679012345679,0.4973838834697783,0.1517048711240993,0.7668552922508638
+5200,Lady Elizabeth Hastings CofE Primary School,Church of England,Does not apply,True,144.0,0.8333333333333334,0.674445076893541,-0.15888825643979232,0.8837972221460904
+3927,New Bewerley Community School,No religious designation,Does not apply,True,375.0,0.14933333333333335,0.23841334042835927,0.08908000709502592,0.5163524009933166
+3928,Valley View Community Primary School,No religious designation,Does not apply,True,447.0,0.7225950782997763,0.45070744630186377,-0.27188763199791255,0.7839317125934805
+3929,Shire Oak VC Primary School,No religious designation,Does not apply,True,143.0,0.2097902097902098,0.3902087063801349,0.1804184965899251,0.6844056765955966
+2512,Asquith Primary School,No religious designation,Does not apply,True,378.0,0.6190476190476191,0.43109738107397333,-0.18795023797364574,0.8051065525094614
+2513,Otley All Saints CofE Primary School,Church of England,Does not apply,True,226.0,0.12831858407079647,0.3400859709466603,0.21176738687586386,0.8386767564194628
+2002,Rufford Park Primary School,No religious designation,Does not apply,True,327.0,0.345565749235474,0.2907939256496883,-0.054771823585785695,0.8238772369848221
+3921,Drighlington Primary School,No religious designation,Does not apply,True,400.0,0.285,0.20143204912332732,-0.08356795087667265,0.8469469299263443
+3922,Hollybush Primary,No religious designation,Does not apply,True,365.0,0.18082191780821918,0.32074832612692705,0.13992640831870787,0.6315644689626263
+3925,Great Preston VC CofE Primary School,Church of England,Does not apply,True,224.0,0.22321428571428573,0.3274416725716911,0.10422738685740537,0.8378431382622062
+3931,Allerton CofE Primary School,Church of England,Does not apply,True,641.0,0.41965678627145087,0.43120994948911334,0.011553163217662477,0.8056047312781295
+2396,Green Lane Primary Academy,No religious designation,Does not apply,True,445.0,0.5415730337078651,0.40711034888729586,-0.13446268482056928,0.867260917637611
+2005,Park View Primary Academy,No religious designation,missing,True,229.0,0.10043668122270742,0.20792718625239356,0.10749050502968614,0.5394882324794844
+3910,Manston St James Primary Academy,No religious designation,Does not apply,True,24.0,0.5416666666666666,0.3764792757659188,-0.16518739090074785,0.7369921514639537
+2000,Lane End Primary School,No religious designation,Does not apply,True,412.0,0.15776699029126215,0.26744637082673073,0.10967938053546858,0.5180703687451232
+3365,St Benedict's Catholic Primary School,Catholic,Does not apply,True,205.0,0.6048780487804878,0.3287626581490739,-0.2761153906314139,0.8264902356093795
+2006,Lift Cottingley,No religious designation,missing,False,,,0.34656686373532863,,0.6634226295052491
+2007,Co-op Academy Brownhill,No religious designation,missing,False,,,0.2779404149490731,,0.516242833362346
+2008,Co-op Academy Woodlands,No religious designation,missing,False,,,0.2805615824858926,,0.5714993831090256
+2010,Co-op Academy Oakwood,No religious designation,missing,True,433.0,0.3579676674364896,0.30580605103597186,-0.05216161640051775,0.6261079125477884
+3361,"St Joseph's Catholic Primary School, A Voluntary Academy",Catholic,Does not apply,False,,,0.44384668294371865,,0.7677343419359625
+3359,"St Mary's Catholic Primary School, Horsforth",Catholic,Does not apply,True,209.0,0.6507177033492823,0.3724388808406798,-0.2782788225086025,0.782267392939429
+3363,"Ss. Peter and Paul Catholic Primary School, a Voluntary Academy",Catholic,Does not apply,True,204.0,0.8235294117647058,0.38245369296620846,-0.4410757187984974,0.8330008823756918
+3360,"St Joseph's Catholic Primary School, Otley",Catholic,Does not apply,True,192.0,0.453125,0.3032782907481934,-0.1498467092518066,0.8215874551662709
+2011,Primley Wood Primary School,No religious designation,Sikh,True,251.0,0.5697211155378487,0.43636977594788895,-0.1333513395899597,0.8204604303567293
+2012,Co-op Academy Nightingale,No religious designation,missing,True,410.0,0.12439024390243902,0.274268938563773,0.14987869466133397,0.5082612454937758
+2395,East Garforth Primary Academy,No religious designation,Does not apply,True,156.0,0.5192307692307693,0.409452677967355,-0.10977809126341426,0.8700222721122488
+2013,"Holy Trinity Church of England Academy, Rothwell",Church of England,missing,False,,,0.2965971530774749,,0.7775286051755688
+2014,Hillcrest Academy,No religious designation,missing,True,463.0,0.3304535637149028,0.29625362138396044,-0.03419994233094237,0.5530828764342104
+2016,Ryecroft Academy,No religious designation,missing,True,294.0,0.29591836734693877,0.326263093658579,0.030344726311640202,0.6512557502557436
+3315,St Chad's Church of England Primary School,Church of England,Does not apply,True,240.0,0.2625,0.38534170397275413,0.12284170397275412,0.7450630383510746
+2321,Morley Newlands Academy,No religious designation,Does not apply,True,705.0,0.4978723404255319,0.3873419619749599,-0.11053037845057201,0.7645941629964642
+4068,Temple Learning Academy,No religious designation,missing,False,,,0.2814297260801189,,0.6253233806680752
+2017,Holy Name Catholic Voluntary Academy,Catholic,missing,True,153.0,0.5947712418300654,0.4307571454884529,-0.16401409634161246,0.7850432211951165
+2504,East Ardsley Primary Academy,No religious designation,Does not apply,True,445.0,0.26292134831460673,0.34350273070891274,0.08058138239430601,0.848239703206766
+2292,Hill Top Primary Academy,No religious designation,Does not apply,True,242.0,0.6611570247933884,0.41730718352696405,-0.2438498412664244,0.8749298107253459
+2454,Victoria Primary Academy,No religious designation,Does not apply,True,380.0,0.21052631578947367,0.2893768887504851,0.07885057296101144,0.5552072715179672
+2297,Westerton Primary Academy,No religious designation,Does not apply,True,660.0,0.603030303030303,0.351127028736991,-0.25190327429331205,0.8614820944223105
+2018,Ebor Gardens Primary Academy,No religious designation,missing,True,471.0,0.14225053078556263,0.270456820514538,0.12820628972897538,0.48801910146612065
+2328,Swillington Primary School,No religious designation,Does not apply,True,210.0,0.2714285714285714,0.21183450522415428,-0.05959406620441712,0.8162742648617435
+2801,Kippax Ash Tree Primary School,No religious designation,Does not apply,True,295.0,0.37966101694915255,0.3031527447599043,-0.07650827218924827,0.8320980198668899
+2384,Kippax Greenfield Primary School,No religious designation,Does not apply,True,127.0,0.3858267716535433,0.27063264662142966,-0.11519412503211363,0.8410067686459943
+2507,Allerton Bywater Primary School,No religious designation,Does not apply,True,401.0,0.3940149625935162,0.32383604330091226,-0.07017891929260395,0.8658176448404448
+2399,Kippax North Primary School,No religious designation,Does not apply,True,237.0,0.48945147679324896,0.445994626370385,-0.04345685042286396,0.8486331330840606
+4075,Dixons Trinity Chapeltown,No religious designation,missing,False,,,0.3061711399543647,,0.5284226010367481
+2020,"Christ The King Catholic Primary School, A Voluntary Academy",Catholic,missing,True,169.0,0.28402366863905326,0.32030354783136333,0.03627987919231007,0.6466073913284839
+2021,Richmond Hill Academy,No religious designation,missing,True,565.0,0.2424778761061947,0.245433566677343,0.002955690571148306,0.49603679266646256
+2022,Co-op Academy Beckfield,No religious designation,Does not apply,True,187.0,0.2192513368983957,0.28807375053320694,0.06882241363481123,0.8421835790996007
+3920,Pudsey Waterloo Primary,No religious designation,Does not apply,False,,,0.37200598569651333,,0.8147024183117463
+2339,Pudsey Primrose Hill Primary School,No religious designation,Does not apply,True,156.0,0.5,0.4613203184239291,-0.03867968157607088,0.7880098756499777
+2023,Methley Primary School,No religious designation,Does not apply,True,412.0,0.5072815533980582,0.45648167645884313,-0.050799876939215116,0.894255935601149
+2024,Elements Primary School,No religious designation,missing,True,399.0,0.38847117794486213,0.29724671395081453,-0.0912244639940476,0.7238283692445916
+3044,Thorner Church of England Primary School,Church of England,Does not apply,True,180.0,0.43333333333333335,0.47925880015256334,0.04592546681922999,0.887838113158224
+2025,Blackgates Primary Academy,No religious designation,Does not apply,True,255.0,0.4235294117647059,0.35766946050311743,-0.06585995126158845,0.8240925022101778
+2463,Austhorpe Primary School,No religious designation,Does not apply,True,216.0,0.3425925925925926,0.3645398442083182,0.021947251615725583,0.8330352763604391
+3923,Meadowfield Primary School,No religious designation,Does not apply,False,,,0.2974493992488982,,0.5960118041830937
+2465,Templenewsam Halton Primary School,No religious designation,Does not apply,True,32.0,0.28125,0.36288676963683203,0.08163676963683203,0.7303120003382259
+2466,Whitkirk Primary School,No religious designation,Does not apply,True,389.0,0.4961439588688946,0.4093783186474787,-0.08676564022141592,0.7876783627715297
+2453,Colton Primary School,No religious designation,Does not apply,True,137.0,0.4306569343065693,0.34471574738125604,-0.08594118692531327,0.8553356142480105
+2477,Middleton Primary School,No religious designation,Does not apply,True,401.0,0.14214463840399003,0.3167911817939056,0.17464654338991556,0.6887672813347785
+2027,Christ Church Upper Armley Church of England Primary School,Church of England,Church of England,False,,,0.33869216421363774,,0.5870960895695093
+2028,Calverley Parkside Primary School,No religious designation,Does not apply,True,236.0,0.5338983050847458,0.3039876515612582,-0.2299106535234876,0.8951344786577329
+2030,Bramley Park Academy,No religious designation,Does not apply,True,330.0,0.3575757575757576,0.3653681090342428,0.007792351458485225,0.6971712519361548
+2489,Raynville Academy,No religious designation,Does not apply,True,437.0,0.15560640732265446,0.31570951163237715,0.1601031043097227,0.6442671735829301
+2031,Cockburn Haigh Road Academy,No religious designation,Does not apply,True,79.0,0.16455696202531644,0.29472226501226406,0.13016530298694762,0.774926325176557
+3368,"St Augustine's Catholic Primary School, A Voluntary Academy",Catholic,Does not apply,True,461.0,0.22559652928416485,0.2770796592640742,0.05148312997990934,0.5966996605684917
+3373,"St Urban's Catholic Primary School, a Voluntary Academy",Catholic,Does not apply,True,204.0,0.44607843137254904,0.43906925100771044,-0.0070091803648386075,0.7917853938719351
+3377,"Sacred Heart Catholic Primary School, a Voluntary Academy",Catholic,Does not apply,True,188.0,0.3829787234042553,0.3992880961130626,0.01630937270880728,0.6289130040854936
+3378,"St Paul's Catholic Primary School, a Voluntary Academy",Catholic,Does not apply,True,206.0,0.6796116504854369,0.40375062633595504,-0.2758610241494819,0.8377873588106395
+3381,"Immaculate Heart of Mary Catholic Primary School, A Voluntary Academy",Catholic,Does not apply,True,391.0,0.6061381074168798,0.44675227489267644,-0.15938583252420335,0.7980581629664072
+3383,"Holy Rosary and St Anne's Catholic Primary School, a Voluntary Academy",Catholic,Does not apply,False,,,0.30631586353837187,,0.5287720123047452
+2406,Bramhope Primary School,No religious designation,Does not apply,True,366.0,0.30601092896174864,0.2703085208198501,-0.03570240814189857,0.9278940969442591
+2032,Armley Park Primary School,No religious designation,Does not apply,True,253.0,0.11857707509881422,0.34237988655801993,0.22380281145920572,0.566324273720238
+2033,St Marys Church of England Primary Academy,Church of England,Church of England,True,237.0,0.20675105485232068,0.3196158716211918,0.11286481676887114,0.5283416325296993
+2034,Alder Tree Primary Academy,No religious designation,Does not apply,True,327.0,0.1743119266055046,0.3779998149464117,0.20368788834090712,0.6562980707422004
+3371,"St Francis of Assisi Catholic Primary School, a Voluntary Academy",Catholic,Does not apply,False,,,0.22584702903096662,,0.5169071771835417
+2035,Micklefield Church of England Primary Academy,Church of England,Church of England,True,95.0,0.4,0.13687978614778684,-0.2631202138522132,0.8534786335709023
+2385,Bardsey Primary Academy,No religious designation,Does not apply,True,223.0,0.7713004484304933,0.3801947049077611,-0.3911057435227322,0.9351676127152221
+2437,Manor Wood Primary School,No religious designation,Does not apply,True,502.0,0.32669322709163345,0.4245229018134796,0.09782967472184617,0.7746037035061931
+2401,Ashfield Primary School,No religious designation,Does not apply,True,226.0,0.13274336283185842,0.30562213166883806,0.17287876883697964,0.8255041521738692
+3033,Barwick-in-Elmet CofE Primary School and Nursery,Church of England,Does not apply,False,,,0.25840325181145507,,0.8878187688827235
+3329,Roundhay St John's Church of England Primary School,Church of England,Does not apply,False,,,0.4112357487025513,,0.7540037954519846
+3908,St Matthew's Church of England Primary School,Church of England,Does not apply,True,302.0,0.47019867549668876,0.44595037140162225,-0.02424830409506651,0.7503610274615913
+3917,Strawberry Fields Primary School,No religious designation,Does not apply,True,334.0,0.24251497005988024,0.3236155856802344,0.08110061562035417,0.8320117649044623
+2037,Little London Academy,No religious designation,Does not apply,True,369.0,0.17344173441734417,0.27812861697958113,0.10468688256223696,0.5021190235705909
+2038,Spring Bank Primary School,No religious designation,Does not apply,False,,,0.38606110964164747,,0.6401687216271039
+2382,Morley Victoria Primary School,No religious designation,Does not apply,True,408.0,0.33088235294117646,0.38710286451161713,0.05622051157044067,0.7866724205045689
+3911,St Peter's Church of England Primary School,Church of England,Does not apply,True,178.0,0.1404494382022472,0.3018429939298283,0.16139355572758107,0.4768788291548926
+2286,Churwell Primary Academy,No religious designation,Does not apply,True,466.0,0.2811158798283262,0.3938208199318552,0.112704940103529,0.7916198429162754
+2405,Otley the Whartons Primary School,No religious designation,Does not apply,True,161.0,0.30434782608695654,0.31354228302189135,0.009194456934934814,0.8661380638771773
+3030,Aberford Church of England Primary School,Church of England,Does not apply,True,103.0,0.3592233009708738,0.29342773622261764,-0.06579556474825615,0.9099343814202172
+3926,Fountain Primary School,No religious designation,Does not apply,False,,,0.31571163110326483,,0.7891489260022813
+2039,Cockburn Ingram Road Academy,No religious designation,Does not apply,True,328.0,0.07621951219512195,0.29590911113583024,0.21968959894070827,0.5263820492399846
+3350,St. Oswald's CofE Primary School,Church of England,Does not apply,True,421.0,0.38004750593824227,0.4074373503632942,0.027389844425051935,0.8362560202022228
+2450,Hovingham Primary School,No religious designation,Does not apply,True,699.0,0.06294706723891273,0.2783857492976978,0.21543868205878508,0.6106623504760741
+2432,Talbot Primary School,No religious designation,Does not apply,True,482.0,0.2012448132780083,0.4226110576778971,0.22136624439988878,0.8426532783726112
+2041,Cobden Primary School,No religious designation,missing,True,208.0,0.19230769230769232,0.3371297180292911,0.14482202572159877,0.6842314130093496
